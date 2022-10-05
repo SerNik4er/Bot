@@ -86,3 +86,4 @@ virtualenv==20.14.1
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.3.2
+heroku logs --tail
